@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import './style.css';
+import './add.scss';
 
 import InputTask from './components/InputTask';
 import IncompleteTasks from './components/IncompleteTasks';
